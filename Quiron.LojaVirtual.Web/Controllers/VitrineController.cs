@@ -7,7 +7,7 @@ using System.Web.Mvc;
 
 namespace Quiron.LojaVirtual.Web.Controllers
 {
-    public class ProdutoController : Controller
+    public class VitrineController : Controller
     {
         // GET: Produto
         private ProdutoRepositorio _repositorio;
